@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme/67030314.md",
+                "file": "67030314/week02_lab2-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "67030314"
+              "title": "week02_lab2-2"
             }
           }
         ]
@@ -194,21 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17294808f606685f",
+  "active": "8153708780d0ee90",
   "lastOpenFiles": [
-    "Screenshot 2026-07-17 144326.png",
+    "67030314/Screenshot 2026-07-17 144326.png",
+    "week02_lab2-2.md",
+    "67030314/week02_lab2-2.md",
+    "67030314",
+    "Readme/67030314.md",
+    "Readme/week02_lab2-2.md",
     "Readme/Pasted image 20260717144335.png",
     "Readme/Pasted image 20260717145136.png",
     "Readme/Pasted image 20260717151007.png",
-    "Readme/67030314.md",
     "Readme/Screenshot 2026-07-17 145409.png",
     "Readme/Screenshot 2026-07-17 145321.png",
     "Readme/Screenshot 2026-07-17 145248.png",
     "Readme",
     "Pasted image 20260717150611.png",
     "Pasted image 20260717145412.png",
-    "Pasted image 20260717145325.png",
-    "Pasted image 20260717145251.png",
-    "week02_lab2-2.md"
+    "Pasted image 20260717145325.png"
   ]
 }
