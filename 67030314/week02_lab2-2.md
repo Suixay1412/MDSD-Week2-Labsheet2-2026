@@ -401,8 +401,6 @@ flutter run
 
 **บันทึกรูปผลการทดลอง**
 
-![[Screenshot 2026-07-17 144326.png]]
-
 ---
 
 ### การทดลองที่ 2 — Layout Widgets: Column, Row, Container
