@@ -401,7 +401,7 @@ flutter run
 
 **บันทึกรูปผลการทดลอง**
 
-<img width="1917" height="1020" alt="Screenshot 2026-07-17 144326" src="https://github.com/user-attachments/assets/c4f4643f-2933-4d9a-b984-1138902ff527" />
+
 
 ---
 
@@ -461,15 +461,12 @@ flutter run
 
 **บันทึกรูปผลการทดลอง**
 
-<img width="1917" height="1017" alt="Screenshot 2026-07-17 145126" src="https://github.com/user-attachments/assets/de98f2d2-6910-4b52-860a-d9a38ea7ba5f" />
-<img width="1917" height="1020" alt="Screenshot 2026-07-17 145248" src="https://github.com/user-attachments/assets/c62ee4db-7906-4e60-9bf9-2c49879757f8" />
-<img width="1917" height="1018" alt="Screenshot 2026-07-17 145321" src="https://github.com/user-attachments/assets/f62940f8-15a3-4bab-a1cb-9ad39e1d0434" />
-<img width="1917" height="1015" alt="Screenshot 2026-07-17 145409" src="https://github.com/user-attachments/assets/055b1fc4-4e32-4d40-91b1-6b7760c68d4c" />
+
 
 **✏️ ทดลองแก้ไข D:** ใน Row เพิ่ม Container D สีม่วง ขนาด 80×80 ต่อจาก C
 **บันทึกรูปผลการทดลอง**
 
-<img width="1917" height="1017" alt="Screenshot 2026-07-17 150934" src="https://github.com/user-attachments/assets/2f6e1aee-78da-4e4c-b764-9c76758a2c23" />
+
 
 ---
 
